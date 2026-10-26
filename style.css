@@ -1,0 +1,157 @@
+
+        body {
+    background-image: url(https://marketplace.canva.com/MADGyE1zVZE/4/thumbnail_large/canva-photo-of-eiffel-tower-MADGyE1zVZE.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+
+}
+.right-image {
+float: right;
+margin-left: 15px;
+width: 400px;
+border: 5px solid rgb(3, 9, 94);
+border-radius: 20px;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+ h2 {
+        font-size: 38px;
+        color: darkblue;
+        text-align: center;
+        text-decoration: underline;
+        letter-spacing: 2px;
+    }
+
+  h3 {
+        font-size: 28px;
+        color: #b22222;
+        margin-top: 20px;
+        color:aliceblue;
+    }
+
+p {
+  color: white;
+  margin: 0;
+  padding: 0;
+  font-family: cursive;
+}
+
+.food-image {
+float: left;
+margin-left: 15px;
+width: 200px;
+border: 5px solid rgb(158, 121, 90);
+border-radius: 20px;
+}
+
+.onion-image {
+  float: bottom;
+  margin-left: 15px;
+  width: 200px; 
+  border: 5px solid rgb(48, 74, 99);
+  border-radius: 20px;
+}
+
+
+.sweet-image {
+   float: bottom;
+  margin-left: 15px;
+  width: 200px; 
+  border: 5px solid rgb(95, 48, 99);
+  border-radius: 20px;
+}
+
+.paris-image {
+    float: top;
+    margin-left: 15px;
+    width: 200px;
+    border: 5px solid rgb(15, 3, 78);
+    border-radius: 20px;
+}
+ 
+.unique {
+    color:rgb(255, 255, 255)
+}
+
+.marseille-image {
+    float: top;
+    margin-left: 15px;
+    width: 200px;
+    border: 5px solid rgb(160, 14, 14);
+    border-radius: 20px;
+}
+
+.sea {
+  color: white;
+}
+
+.lyon-image {
+  float: top; 
+  margin-left: 15px;
+  width: 200px;
+  border: 5px solid rgb(140, 0, 255);
+  border-radius: 20px;
+}
+
+.culture-image {
+  float: left; 
+  margin-left: 15px;
+  width:200px;
+  border: 5px solid rgb(0, 0, 104);
+  border-radius: 20px;
+}
+
+.Napoleonic-image {
+  float: bottom;
+  margin-left: 15px;
+  width: 200px;
+  border: 5px solid rgb(75, 75, 161);
+  border-radius: 20px;
+}
+
+div {
+  margin: 0;
+  padding: 0;
+}
+
+.sea {
+  margin: 0;
+  padding: 0;
+}
+
+.Soccer-image {
+  float: bottom;
+  margin-left: 15px;
+  width: 200px;
+  border: 5px solid rgb(119, 70, 255);
+  border-radius: 20px;
+}
+
+.Wine-image {
+  float: bottom; 
+  margin-left: 15px;
+  width: 200px;
+  border: 5px solid rgb(77, 3, 3);
+  border-radius: 20px;
+}
+
+.Green-image {
+  float: bottom; 
+  margin-left: 15px;
+  width: 200px;
+  border: 5px solid rgb(46, 179, 52);
+  border-radius: 20px;
+}
+
+.Special {
+        font-size: 38px;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        text-decoration: underline;
+        letter-spacing: 2px;
+        font-family: cursive;
+}
